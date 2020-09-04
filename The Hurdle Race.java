@@ -8,7 +8,6 @@ import java.util.regex.*;
 
 public class Solution {
 
-    // Complete the hurdleRace function below.
     static int hurdleRace(int k, int[] height) 
     {
         int s = 0;
